@@ -1,0 +1,35 @@
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\appsettings.Development.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\appsettings.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\API Project With Polly.exe
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\API Project With Polly.deps.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\API Project With Polly.runtimeconfig.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\API Project With Polly.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\API Project With Polly.pdb
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.csproj.AssemblyReference.cache
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.AssemblyInfoInputs.cache
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.AssemblyInfo.cs
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.csproj.CoreCompileInputs.cache
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.MvcApplicationPartsAssemblyInfo.cs
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.MvcApplicationPartsAssemblyInfo.cache
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets.build.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets.development.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets\msbuild.API Project With Polly.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets\msbuild.build.API Project With Polly.props
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Project With Polly.props
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Project With Polly.props
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\staticwebassets.pack.json
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\scopedcss\bundle\API Project With Polly.styles.css
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.csproj.CopyComplete
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\refint\API Project With Polly.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.pdb
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\API Project With Polly.genruntimeconfig.cache
+D:\API Project With Polly\API Project With Polly\API Project With Polly\obj\Debug\net8.0\ref\API Project With Polly.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Polly.dll
+D:\API Project With Polly\API Project With Polly\API Project With Polly\bin\Debug\net8.0\Polly.Extensions.Http.dll
